@@ -1,18 +1,18 @@
 👋 Hi, I’m Joy Chisom (aka thetechgirl)
 
-I’m a Frontend Web Developer with 3+ years of experience building clean, scalable, and user-focused web interfaces. I care deeply about detail, performance, and design systems that actually make sense.
-
-I’m also the Founder of CrownaTech, a digital studio focused on crafting modern websites and web applications for startups, brands, and businesses.
+I’m a Frontend Web Developer with 1+ years of experience building clean, scalable, and user-focused web interfaces. I care deeply about detail, performance, and design systems that actually make sense.
 
 🛠 Tech Stack & Skills
 
-Languages: JavaScript (ES6+), HTML5, CSS3
+Languages: JavaScript (ES6+), HTML5, CSS3, Tailwindcss, Bootstrap, Material UI.
 
 Frontend: React.js, Tailwind CSS, Responsive UI, Component-driven design
 
 State & Data: REST APIs, basic state management patterns
 
 Backend (working knowledge): Node.js, Express
+
+Database: Mongoose , SQL
 
 Tools: Git & GitHub, Vite, Figma (dev handoff), VS Code
 
@@ -42,7 +42,6 @@ Interesting frontend-heavy projects
 
 Email: joychisom1580@gmail.com
 
-Brand: CrownaTech
 
 💡 Personal Principle
 
