@@ -1,48 +1,24 @@
-👋 Hi, I’m Joy Chisom (aka thetechgirl)
+👋 Hi, I'm Joy Chisom (thetechgirl)
 
-I’m a Frontend Web Developer with 1+ years of experience building clean, scalable, and user-focused web interfaces. I care deeply about detail, performance, and design systems that actually make sense.
+I'm a mid-level Frontend Developer with 4+ years of professional experience delivering production-grade web applications across fintech, logistics, and e-commerce, serving 2,000+ active users. I specialize in React.js, JavaScript (ES6+), and Tailwind CSS, with a track record of turning Figma designs into accessible, high-performance interfaces integrated with REST APIs. I've led a team of 4 developers and shipped multiple live products from scratch.
 
-🛠 Tech Stack & Skills
-
-Languages: JavaScript (ES6+), HTML5, CSS3, Tailwindcss, Bootstrap, Material UI.
-
-Frontend: React.js, Tailwind CSS, Responsive UI, Component-driven design
-
-State & Data: REST APIs, basic state management patterns
-
-Backend (working knowledge): Node.js, Express
-
-Database: Mongoose , SQL
-
-Tools: Git & GitHub, Vite, Figma (dev handoff), VS Code
-
-Other: Performance optimization, SEO-friendly markup, accessibility basics
+🛠 Tech Stack and Skills
+Languages: JavaScript (ES6+), HTML5, CSS3
+Frontend: React.js, Tailwind CSS, Bootstrap, Material UI, component-driven architecture, responsive design
+Backend: Node.js, Express.js
+Database: MongoDB
+Tools: Git, GitHub, Vite, VS Code, Figma, Webflow
+Practices: REST API integration, cross-browser compatibility, performance optimization, accessibility (a11y), SEO, Agile/Scrum
 
 🚀 What I Do
-
-Frontend development for websites & web apps
-
+Frontend development for websites and web apps
 UI implementation from Figma designs
-
-Building fast, responsive, and maintainable interfaces
-
-Helping brands turn ideas into real, usable products
+Building fast, responsive, maintainable interfaces
+KYC onboarding flows, payment/wallet UI, transaction dashboards for fintech products
 
 🤝 Open To
-
-Client gigs & contracts
-
-Sponsorships
-
-Collaborations
-
-Interesting frontend-heavy projects
+Full-time, contract, and freelance roles (remote or hybrid)
+Client gigs and collaborations
 
 📫 Reach Me
-
 Email: joychisom1580@gmail.com
-
-
-💡 Personal Principle
-
-If it’s worth doing, it’s worth doing well.
